@@ -1,0 +1,31 @@
+<header>
+    <h1>GST Telecom Services</h1>
+    <p>Your Trusted Partner for Telecom Solutions</p>
+</header>
+
+<section>
+    <h2>About Us</h2>
+    <p>Welcome to GST Telecom Services, a new-age telecom company offering a wide range of services to meet your business needs. Our mission is to deliver innovative and cost-effective telecom solutions tailored to the evolving needs of businesses across the globe.</p>
+</section>
+
+<section>
+    <h2>Our Services</h2>
+    <div class="services">
+        <div class="service-card">
+            <h3>GST Compliance</h3>
+            <p>We help telecom businesses comply with GST regulations and streamline their processes to ensure seamless billing and tax reporting.</p>
+        </div>
+        <div class="service-card">
+            <h3>Telecom Billing Solutions</h3>
+            <p>Our advanced billing systems cater to telecom providers, ensuring accurate billing, timely invoicing, and integration with GST services.</p>
+        </div>
+        <div class="service-card">
+            <h3>GST Consultancy</h3>
+            <p>Our expert consultants provide valuable insights into GST implementation, helping telecom companies optimize their tax processes and avoid pitfalls.</p>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2024 GST Telecom Services. All rights reserved.</p>
+</footer>
